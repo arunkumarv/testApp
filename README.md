@@ -23,7 +23,7 @@ _Note: Updates are on app-router.module.ts and app.component.ts. Created three c
 - `ng serve` and go to `http://localhost:4200/client`
 - `ng build --prod`
 - Take a look at `static/client`.
-- At static/ folder run python3.7 -m http.server and go to `http://localhost:8000/client`. Try the links.
+- At static/ folder run `python3.7 -m http.server` and go to `http://localhost:8000/client`. Try the links.
 
 ## What we did is:
 - Assume that static/ is the static folder of the project.
